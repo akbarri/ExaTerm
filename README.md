@@ -1,6 +1,12 @@
 # ExaTerm
 ExaGear Terminal Emulator
 
+Watch
+
+https://youtu.be/DNg_fCgSKpA
+
+https://youtu.be/F6Eqtvwq1vs
+
 Orginal Source Code by GFOXSH
 
 https://4pda.ru/forum/index.php?showtopic=804309&st=6300#entry95528617
