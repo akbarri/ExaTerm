@@ -1,5 +1,10 @@
 # ExaTerm
+[DEPRECATED PROJECT]
 ExaGear Terminal Emulator
+
+Use ExaTermV2 instead
+
+https://github.com/akbarri/ExaTermV2
 
 Watch
 
