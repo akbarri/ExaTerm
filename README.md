@@ -1,5 +1,6 @@
 # ExaTerm
 [DEPRECATED PROJECT]
+
 ExaGear Terminal Emulator
 
 Use ExaTermV2 instead
